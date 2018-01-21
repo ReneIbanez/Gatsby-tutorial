@@ -8,6 +8,7 @@ export default () =>
         <h1>Hello Gatsby!</h1>
         <p>what a world</p>
         <img src="https://source.unsplash.com/random/400x200" alt="" />
+        
         <br />
         <PrimaryButton/>
         <div>
